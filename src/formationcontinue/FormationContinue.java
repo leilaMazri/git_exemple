@@ -16,7 +16,7 @@ public class FormationContinue {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
+        System.out.println("juste un pull");
         System.out.println("Je suis mazri");
         System.out.println("je suis leila");
     }
